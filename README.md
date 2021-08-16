@@ -13,7 +13,7 @@ cupertino_icons: ^1.0.2 http: ^0.12.0+4 cached_network_image: ^2.0.0 google_sign
 provider: ^5.0.0 news_api_flutter_package: ^1.0.1
 
 
-Additional contributors: https://github.com/UselessToaster https://github.com/azimIbragimov https://github/,com/bilaljoud
+Additional contributors: https://github.com/UselessToaster https://github.com/azimIbragimov https://github.com/bilaljoud
 
 
 part of:
