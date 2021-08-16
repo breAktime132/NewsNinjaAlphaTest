@@ -19,7 +19,7 @@ class card extends StatelessWidget {
                 radius: 50.0,
               ),
               Text(
-                'Peter Abdulmasih',
+                'Peter ',
                 style: TextStyle(
                   fontSize: 40.0,
                   fontWeight: FontWeight.bold,
@@ -47,7 +47,7 @@ class card extends StatelessWidget {
                       width: 10.0,
                     ),
                     Text(
-                      '352-777-3042',
+                      '123-456-7890',
                       style: TextStyle(
                         color: Colors.teal.shade900,
                         fontFamily: 'Source Sans Pro',
@@ -68,7 +68,7 @@ class card extends StatelessWidget {
                       width: 10.0,
                     ),
                     Text(
-                      'peteramasih@gmail.com',
+                      'loganwalsh557@gmail.com',
                       style: TextStyle(
                         color: Colors.teal.shade900,
                         fontFamily: 'Source Sans Pro',
