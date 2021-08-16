@@ -59,7 +59,7 @@ class SignUpWidget extends StatelessWidget {
             margin: EdgeInsets.symmetric(horizontal: 20),
             width: 175,
             child: Text(
-              'Welcome back, habibi!',
+              'Welcome back!',
               style: TextStyle(
                 color: Colors.black,
                 fontSize: 30,
