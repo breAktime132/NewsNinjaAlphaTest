@@ -12,13 +12,9 @@ cupertino_icons: ^1.0.2 http: ^0.12.0+4 cached_network_image: ^2.0.0 google_sign
 
 provider: ^5.0.0 news_api_flutter_package: ^1.0.1
 
-NewsNinja has been in part created with the help of these repositories:
 
-github.com/theindianappguy/FlutterNewsApp
+Additional contributors: https://github.com/UselessToaster https://github.com/azimIbragimov https://github/,com/bilaljoud
 
-https://github.com/JohannesMilke/google_signin_example
-
-Additional contributors: https://github.com/UselessToaster https://github.com/azimIbragimov
 
 part of:
 
